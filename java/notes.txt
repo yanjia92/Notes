@@ -1,0 +1,2 @@
+Object wait notify notifyall
+    只有获取了对象锁(monitor)对象的线程 can call those methods
